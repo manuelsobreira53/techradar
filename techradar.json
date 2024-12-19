@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Policy as Code",
+    "ring": "adopt",
+    "quadrant": "Method and Pattern",
+    "isNew": "False",
+    "description": "Policy-as-code is the use of code to define and manage rules and conditions"
+  },
+  {
+    "name": "GitOps",
+    "ring": "adopt",
+    "quadrant": "Method and Pattern",
+    "isNew": "FALSE",
+    "description": "GitOps is a set of principles that guide your workflow and enables you to implement continuous deployment (CD) for cloud native applications"
+  },
+  {
+    "name": "Modular Monolith",
+    "ring": "assess",
+    "quadrant": "Method and Pattern",
+    "isNew": "TRUE",
+    "description": "It's an architectural pattern that structures the application into independent modules or components with well-defined boundaries"
+  },
+  {
+    "name": "Ansible",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Configuration Manager tool to automate provisioning"
+  }
+]
